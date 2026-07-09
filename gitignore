@@ -1,0 +1,23 @@
+# Downloaded files (temporary)
+downloads/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Cookies (private)
+cookies.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
